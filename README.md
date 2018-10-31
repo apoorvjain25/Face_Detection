@@ -16,3 +16,5 @@ Steps To run this:
 PS: Two different versions are there: 
     One is commented to understand the code
     The other is raw version. 
+	
+	Please add information about cascade classifiers
